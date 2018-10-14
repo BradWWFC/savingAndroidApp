@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SavingApp</string>
+    <string name="start">Start</string>
+    <string name="Figure_1">Figure 1</string>
+    <string name="Figure_2">Figure 2</string>
+    <string name="stop_service">stop_service</string>
+    <string name="update">Update</string>
+    <string name="you_need_to_save">You Need To Save...</string>
+    <string name="you_have_saved">You Have Saved...</string>
+    <string name="cllick_to_string_start">Cllick to @string/start</string>
+    <string name="click_to_start_saving">Click To Start Saving</string>
+    <string name="icon_1" />
+    <string name="login">Login</string>
+    <string name="dd">DD</string>
+    <string name="mm">MM</string>
+    <string name="yyyy">YYYY</string>
+    <string name="reset">Reset</string>
+</resources>
